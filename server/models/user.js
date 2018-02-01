@@ -1,4 +1,4 @@
-var mongoose = require('mongoose');
+vadfdsjkfsjdkfdsar mongoose = require('mongoose');
 
 var User = mongoose.model('User',{
 	email:{
